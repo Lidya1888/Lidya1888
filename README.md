@@ -1,4 +1,3 @@
-
 This is a prediction equation to compare predictedand reported energy intake
 <!--
 **LidyaAbebe/LidyaAbebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
